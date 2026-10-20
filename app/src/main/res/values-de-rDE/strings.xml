@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="materia">Anwendungsentwicklung</string>
+    <string name="nombre">Maria</string>
+    <string name="apellido">Krieger</string>
+    <string name="home_screen">Startbildschirm</string>
+    <string name="back_btn_desc">Zurück-Taste</string>
+</resources>
